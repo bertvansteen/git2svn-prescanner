@@ -1,0 +1,6 @@
+Folder/
+Folder/trunk/
+Folder/trunk/file.txt
+Folder2/
+Folder2/trunk/
+Folder2/trunk/file.txt
